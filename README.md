@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇺🇦 UA Messenger
+# UA Messenger
 
 ### Спілкування без свідків.
 
